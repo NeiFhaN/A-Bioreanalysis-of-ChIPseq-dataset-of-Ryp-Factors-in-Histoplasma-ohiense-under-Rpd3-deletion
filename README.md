@@ -1,4 +1,4 @@
-# A-Bioreanalysis-of-ChIPseq-dataset-of-Ryp-Factors-in-Histoplasma-ohiense-under-Rpd3-deletion
+# Bioreanalysis-ChIPseq-dataset-Ryp-Factors
 
 ## Reanálise de ChIP-seq: 
 Regulação Epigenética por Rpd3 e Redistribuição dos Fatores Ryp1–3 em \*Histoplasma ohiense\* Repositório de rotinas e scripts computacionais desenvolvidos durante o projeto de Iniciação Científica, vinculado à Faculdade de Ciências Farmacêuticas da Unesp (Câmpus de Araraquara). 
